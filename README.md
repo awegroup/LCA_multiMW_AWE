@@ -64,6 +64,10 @@ Primarily for visuals.
 * **Luuk van Hagen** - *Assembly of dataset and documentation* - [GitHub](https://github.com/lvanhagen)
 * **Roland Schmehl** - *Documentation and supervision* - [GitHub](https://github.com/rschmehl)
 
+## Updates
+
+Updates to this dataset may be found on the Github repository: [https://github.com/awegroup/LCA_multiMW_AWE/](https://github.com/awegroup/LCA_multiMW_AWE/).
+
 ## References
 
 [1] van Hagen, L.: Life Cycle Assessment of Multi-Megawatt Airborne Wind Energy. MSc Thesis, Delft University of Technology, 2022. [http://resolver.tudelft.nl/uuid:472a961d-1815-41f2-81b0-0c6245361efb](http://resolver.tudelft.nl/uuid:472a961d-1815-41f2-81b0-0c6245361efb)
