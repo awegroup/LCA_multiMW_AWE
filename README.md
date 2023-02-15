@@ -76,3 +76,14 @@ Primarily for visuals.
 ## Acknowledgements
 
 The authors would like to thank Ampyx Power B.V. for providing data about the AP3 and and information about the upscaling to multiple MW, as well as for allowing to publish this dataset. Further, they would like to thank Edward Fagan and Michiel Kruijf for the input on the design of the AWE system model, Joost Vogtländer and Bernhard Steubing for providing feedback on the LCA, and Rigo Bosman for providing the missing data required to model the impacts of the tether.
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
