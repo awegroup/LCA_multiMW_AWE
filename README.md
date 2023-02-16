@@ -10,7 +10,7 @@ The dataset was generated during the graduation project of Luuk van Hagen [[1]](
 
 ## Data Description
 
-This research was performed using a large MS Excel mode. The majority of the input on impacts came from the [EcoInvent database (v3.6)](https://ecoinvent.org/the-ecoinvent-database/data-releases/ecoinvent-3-6/), extracted using the [SimaPro LCA software (v9.2)](https://simapro.com/wp-content/uploads/2021/07/FullUpdateInstructionsToSimaPro920.pdf). 
+This research was performed using a large MS Excel model. The majority of the input on impacts came from the [EcoInvent database (v3.6)](https://ecoinvent.org/the-ecoinvent-database/data-releases/ecoinvent-3-6/), extracted using the [SimaPro LCA software (v9.2)](https://simapro.com/wp-content/uploads/2021/07/FullUpdateInstructionsToSimaPro920.pdf). 
 Certain sheets of the MS Excel file were exclusively used for gathering input to the model, while others were used for calculations and yet others were used for output communication. The description of the data follows the individual sheets of the MS Excel file, from left to right.
 
 *Disclaimer: During the graduation project this file was assembled step-by-step without the intention of later publication. Towards the end of the project the file was not as ordered and structured anymore as it could have been, with more time available. We still hope that you manage to gain insight from this invaluable collection of data derived from one of the largest implemented AWES prototypes, the Ampyx Power AP3.*
